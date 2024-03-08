@@ -25,10 +25,13 @@ const pets = ['dog', 'cat', 'hamster', 'redfish'];
 pets.sort();
 
 console.log(pets);
+
 /* ESERCIZIO 3
     Scrivi del codice per stampare nuovamente in console gli elementi dell'array "pets", questa volta in ordine invertito.
 */
+const reversedPets = pets.reverse();
 
+console.log(reversedPets);
 /* ESERCIZIO 4
     Scrivi del codice per spostare il primo elemento dall'array "pets" in ultima posizione.
 */
