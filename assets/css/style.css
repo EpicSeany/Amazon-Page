@@ -1,7 +1,6 @@
 body {
-
+    font-family: Arial, Helvetica, sans-serif;
     margin: 0;
-    
 }
 
 
@@ -11,10 +10,48 @@ nav {
     padding: 1rem 0 ; 
     margin-bottom: 4rem;
     
+    
 }
 #logo1{
 
     width: 100px;
     margin: 1rem 0;
     
+}
+#striscia {
+
+    background-color: #354856;
+    color: white;
+}
+#para{
+
+    text-align: center;
+    margin-top: 2rem;
+    background-color: #F56600;
+    color: white;
+}
+#banner {
+
+    margin-top: 2rem;
+    width: 100%;
+}
+
+#nomi {
+
+    background-image: url(../images/bg-image.png);
+    width: 100%;
+    color: white;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+span {
+
+color: blue;
+font-family: ;
+
+}
+#img1 {
+
+    margin-top: 1rem;
+    border-radius: 20px;
 }
