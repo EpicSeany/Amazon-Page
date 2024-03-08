@@ -55,3 +55,41 @@ font-family: ;
     margin-top: 1rem;
     border-radius: 20px;
 }
+
+#banner2 {
+margin-top: 1rem;
+
+}
+#game{
+
+    text-align: center;
+
+}
+
+
+
+
+
+#fine{
+
+    text-align: center;
+}
+
+#top {
+
+    text-align: center;
+    background-color: #354856;
+   
+}
+a {
+    color: white;
+}
+
+
+#logo3 {
+    background-color: #222f3f;
+    padding: 1rem 0 ; 
+    margin-bottom: 0rem;
+    text-align: center;
+
+}
